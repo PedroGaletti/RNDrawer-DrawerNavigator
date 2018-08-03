@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.m \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/pedrogaletti/Pedro/RNDrawer-DrawerNavigator/node_modules/react-native/React/Base/RCTAssert.h
